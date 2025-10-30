@@ -26,7 +26,8 @@ The system helps manage medicines, generate bills, track inventory, and store cu
 3. Used CSV files for import/export.
 4. Implemented validation & error handling.
 5.Built a complete real-world desktop app .
-##🚀 **Future Enhancements**
+
+## 🚀 **Future Enhancements**
 1.Add login/authentication system
 2. Integrate cloud database
 3. Add analytics dashboard
