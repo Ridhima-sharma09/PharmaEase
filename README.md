@@ -1,4 +1,4 @@
-**💊 Pharmacy Management System (PharmaEase)**
+## **💊 Pharmacy Management System (PharmaEase)**
 A modern **Python-based desktop application** designed to simplify and automate the operations of a pharmacy.  
 The system helps manage medicines, generate bills, track inventory, and store customer data — all through an intuitive GUI.
 ## 🧠 **Features**
@@ -8,7 +8,7 @@ The system helps manage medicines, generate bills, track inventory, and store cu
 - 👥 Manage customer and supplier records  
 - 📊 Import/export data using **CSV files**  
 - 🔍 Quick search and filter options  
- ⚙️ Tech Stack
+## ⚙️ Tech Stack
 | Component | Technology |
 | **Programming Language** | Python |
 | **GUI Library** | Tkinter |
